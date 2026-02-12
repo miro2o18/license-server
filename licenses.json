@@ -2,14 +2,20 @@
   "licenses": [
     {
       "key": "adefcvf23d5er",
-      "hwid": "KARIAN-DEV-0VLZWU9XPC",
-      "name": "الفرسان1",
+      "hwid": "",
+      "name": "",
       "expiry": "2099-12-31"
     },
     {
-      "key": "G7H8I9J0K1L2",
+      "key": "G7H58I9J0K1L2",
       "hwid": "",
       "name": "",
+      "expiry": "2099-12-31"
+    },
+    {
+      "key": "adefcvf23d5er",
+      "hwid": "DEV-BROWSER-I89CGLXN",
+      "name": "الفرسان1",
       "expiry": "2099-12-31"
     },
     {
