@@ -1,6 +1,6 @@
 KARIAN-PRO-2025-MASTER {
   "licenses": [
-    { "key": "KARIAN-PRO-2025-A1B2C3", "hwid": "", "name": "", "expiry": "2099-12-31" },
+    { "key": "KARIAN-PRO-2025-A1B2C3", "hwid": "KARIAN-PRO-2025-MASTER", "name": "", "expiry": "2099-12-31" },
     { "key": "KARIAN-PRO-2025-D4E5F6", "hwid": "", "name": "", "expiry": "2099-12-31" },
     { "key": "KARIAN-PRO-2025-G7H8I9", "hwid": "", "name": "", "expiry": "2099-12-31" },
     { "key": "KARIAN-PRO-2025-J0K1L2", "hwid": "", "name": "", "expiry": "2099-12-31" },
